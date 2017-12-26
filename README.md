@@ -20,4 +20,5 @@ MySQL மற்றும் கிரபாநா  நிறுவிய பி�
 தரவுத்தள அட்டவணை  கோப்பை பார்க்கவும்.
 
 ## கிராபனா படிமம்
-![ScreenShot](https://raw.github.com/prabhukalaimani/Grafana-and-MySQL/dashboard.png)
+![dashboard](https://user-images.githubusercontent.com/17793197/34364861-0ef5700a-ea58-11e7-9765-d0e56663f64c.PNG)
+
